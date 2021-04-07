@@ -5,7 +5,7 @@
   <groupId>com.poovseka</groupId>
   <artifactId>docker-jenkins-integration</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <packaging>war</packaging>
+  <packaging>jar</packaging>
 
   <name>docker-jenkins-integration</name>
   <url>http://maven.apache.org</url>
